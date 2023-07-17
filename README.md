@@ -1,13 +1,18 @@
-[master 44eb3b6] c-Hello World
- 7 files changed, 14 insertions(+), 1 deletion(-)
- mode change 100644 => 100755 0x00-hello_world/4-puts.c
- mode change 100644 => 100755 0x00-hello_world/5-printf.c
- rewrite 0x00-hello_world/README.md (100%)
- mode change 100644 => 100755
- mode change 100644 => 100755 0x00-hello_world/c
- mode change 100644 => 100755 0x00-hello_world/main.c
- mode change 100644 => 100755 0x00-hello_world/main.o
- mode change 100644 => 100755 0x00-hello_world/main.s
-# alx-low_level_programming
-# alx-low_level_programming
-# alx-low_level_programming
+[main d7e866b] hello world
+ 16 files changed, 818 insertions(+)
+ create mode 100644 .4-puts.c.swp
+ create mode 100644 .main.c.swo
+ create mode 100644 .main.c.swp
+ create mode 100755 0-preprocessor
+ create mode 100755 1-compiler
+ create mode 100755 2-assembler
+ create mode 100755 3-name
+ create mode 100755 4-puts.c
+ create mode 100755 5-printf.c
+ create mode 100755 6-size.c
+ create mode 100755 a.out
+ create mode 100755 c
+ create mode 100755 cisfun
+ create mode 100755 main.c
+ create mode 100755 main.o
+ create mode 100755 main.s
